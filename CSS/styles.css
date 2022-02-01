@@ -1,0 +1,166 @@
+.top-container {
+	background-color: #CFFFDC;
+	padding-top: 35px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+	margin-top: 100px;
+	background-color: #66BFBF;
+	padding: 40px 10px 40px 10px;
+}
+
+body {
+	margin: 0;
+	text-align: center;
+	color: #40514E;
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+/* 16 px = 100& = 1em */
+#h2 {
+	font-size: 3.5rem;
+	color:  #66BFBF;
+}
+
+.footer-link{
+	color: #11999E;
+	font: -apple-system;
+	margin: 20px;
+	text-decoration: none;
+}
+
+.footer-link:hover{
+	color: #EAF6F6;
+}
+
+.copyright {
+	color: #EAF6F6;
+	font-size: 1rem;
+	padding-top: 35px;
+
+}
+
+h1{
+	margin: 50px;
+	font-size: 562.5%;
+	color:  #66BFBF;
+}
+
+.intro {
+	width: 350px;
+	text-align: center;
+	margin: 0 auto 0 auto;
+}
+h2{
+	color: #66BFBF;
+	font-size: 40px;
+}
+
+h3{
+	color: #66BFBF;
+}
+
+#MySkill{
+	font-size: 40px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2; /* Line height is calculated via scale only*/
+	padding: 20px;
+}
+
+#skill-image {
+	width: 25%;
+	float: left;
+}
+
+#test-image{
+	width: 25%;
+	border-radius: 50%;
+	float: right;
+	margin-left: 30px;
+}
+
+.Web-text {
+	position: relative;
+	left: 50px;
+}
+
+.stext{
+
+}
+#profilepic {
+	height: 200px;
+	width: 200px;
+	padding: 10px;
+}
+
+hr {
+	border-style: dotted none none none;
+	border-width: 6px;
+	border-color: #EAF6F6;
+	width: 50px;
+	margin: 100px auto;
+}
+
+#Top-Cloud {
+	position: relative;
+	left: 200px;
+	top: 10px;
+}
+
+#bottom-cloud {
+	position: absolute;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0f3045;
+  background-image: -webkit-linear-gradient(top, #0f3045, #000b12);
+  background-image: -moz-linear-gradient(top, #0f3045, #000b12);
+  background-image: -ms-linear-gradient(top, #0f3045, #000b12);
+  background-image: -o-linear-gradient(top, #0f3045, #000b12);
+  background-image: linear-gradient(to bottom, #0f3045, #000b12);
+  text-decoration: none;
+}
+
+#HelloAsd {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
